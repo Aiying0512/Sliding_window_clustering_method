@@ -20,8 +20,8 @@ Users should have R version 4.0.4 or higher, RStudio version 2022.02.3+492 or hi
 
 2. Installation Guide
 
-R can be freely downloaded at https://www.r-project.org/
-RStudio can be downloaded with the choice of free version at https://www.rstudio.com/products/rstudio/download/ 
+R can be freely downloaded at https://www.r-project.org/ \\
+RStudio can be downloaded with the choice of free version at https://www.rstudio.com/products/rstudio/download/  \\
 The download time should be within a minute. 
 
 Package dependencies:
