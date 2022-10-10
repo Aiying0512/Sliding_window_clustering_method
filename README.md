@@ -1,7 +1,9 @@
 # Sliding_window_clustering_method
 The code is based on the sliding window based clusetering method we proposed.
 To run the code, we provide the following instructions.
+
 1. System requirements:
+
 Hardware Requirements: 
 To implement the source code, it requires only a standard computer with enough RAM to support the operations defined by a user. For minimal performance, this will be a computer with about 2 GB of RAM. For optimal performance, we recommend a computer with the following specs:
 
@@ -17,6 +19,7 @@ Users should have R version 4.0.4 or higher, RStudio version 2022.02.3+492 or hi
 
 
 2. Installation Guide
+
 R can be freely downloaded at https://www.r-project.org/
 RStudio can be downloaded with the choice of free version at https://www.rstudio.com/products/rstudio/download/ 
 The download time should be within a minute. 
@@ -29,8 +32,10 @@ This will be installed in about 5 seconds on a machine with the recommended spec
 
 
 3. Demo
+
 For test_on_simulated_dataset.R, the expected run time on a recommended computer is 30 seconds.
 The data generation is given in the source code with ground truth plotted.
 
 4. Instruction for use
+
 Simply run the test_on_simulated_dataset.R from an R terminal
